@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721151855274",
+    "project_id": "resolute-assientment",
+    "storage_bucket": "resolute-assientment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721151855274:android:d54bc845b62463f5b15ed3",
+        "android_client_info": {
+          "package_name": "com.bhaskardamayanthi.resoluteassientment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATdw9MOQGLq-mbWYXScrOXOVXPQqpilzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
